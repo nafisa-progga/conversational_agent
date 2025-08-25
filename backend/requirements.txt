@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+langchain
+langgraph
+langchain-mistralai
+langchain-community
+python-dotenv
+sqlalchemy[oracle]
+python-oracledb
+firebase-admin
